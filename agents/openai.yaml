@@ -1,0 +1,4 @@
+interface:
+  display_name: "终稿自然度审校"
+  short_description: "以 Humanizer 为内核清理中英文 AI 写作模式，并保护中文学术论证与证据"
+  default_prompt: "使用 $writing-anti-ai 在不改变事实、立场、必要限定和引文的前提下，清理这份文本的 AI 式套话与机械表达。"
